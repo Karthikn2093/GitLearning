@@ -29,6 +29,7 @@ public class Testcase1 {
 	@Test
 	public void tc3() {
 		System.out.println("Test 3");
+		System.out.println("Test add for Git");
 		Assert.assertTrue(true);
 	}
 	
