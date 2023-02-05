@@ -17,6 +17,7 @@ public class Testcase1 {
 	public void tc1() {
 		
 		System.out.println("Test 1");
+		System.out.println("Test add for Git");
 		Assert.assertTrue(true);
 	}
 	
