@@ -17,7 +17,7 @@ public class Retry implements IRetryAnalyzer  {
 			
 		}
 		
-		
+		System.out.println("Test for Git");
 		return false;
 	}
 	
